@@ -13,7 +13,7 @@ TARGET DATA SOURCE: CarGurus.Com
 2)  Data Cleaning
    Used SQL queries for data cleaning
 
-3) Data Analysis
+4) Data Analysis
       1) Regression Analysis
          Utilized Python to analyze perform linear and multiple regression analysis. Analysed coefficients, p-value, R square and omitted variable bias
          to draw conclusions.
