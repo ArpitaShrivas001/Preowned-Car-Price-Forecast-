@@ -3,12 +3,12 @@ Extracted data from Cargurus.com and utilized data analysis techniques to draw c
 
 TARGET DATA SOURCE: CarGurus.Com  
 1) Web Crawling
-   Used “Webdriver” and “Service” modules under the “**Selenium**” library.
-   Fields fetched from each block:  Brand, Make, Year, MilesDriven, Price, EMI, City, State.
-   Used **Chrome developer tool** to access the HTML code of the website.
-   Constructed **Regex** according to the appropriate tags for the data fields using inspect element.
-   Loaded the fetched data into the **SQLite** database “CarguruFinal.db".
-   Total rows fetched: 923 
+   1) Used “Webdriver” and “Service” modules under the “**Selenium**” library.  
+   2) Fields fetched from each block:  Brand, Make, Year, MilesDriven, Price, EMI, City, State.  
+   3) Used **Chrome developer tool** to access the HTML code of the website.  
+   4) Constructed **Regex** according to the appropriate tags for the data fields using inspect element.  
+   5) Loaded the fetched data into the **SQLite** database “CarguruFinal.db".  
+   6) Total rows fetched: 923 
 
 2)  Data Cleaning
    Used SQL queries for data cleaning
