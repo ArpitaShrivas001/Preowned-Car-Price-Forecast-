@@ -17,7 +17,7 @@ TARGET DATA SOURCE: CarGurus.Com
       1) **Regression Analysis**
          Utilized Python to analyze perform linear and multiple regression analysis. Analysed coefficients, p-value, R square and omitted variable bias
          to draw conclusions.
-      2) **Visulaization**
+      2) **Visualization**
           Utlized Python to plot regression line and bar graphs for potential factors affecting Used car market.
       3) **Descrpitive Analysis**
          Utlized Python to perform statistical analysis by State. 
